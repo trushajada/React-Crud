@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "username": "john_doe",
+        "email": "trusha@gmail.com",
+        "phone": "1234567890",
+        "website": "www.johndoe.com"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "username": "jane_doe",
+        "email": "tr@gmail.com",
+        "phone": "1234567890",
+        "website": "www.janedoe.com"
+    },
+    {
+        "id": 3,
+        "name": "John Smith",
+        "username": "john_smith",
+        "email": "twinkal@gmail.com",
+        "phone": "1234567890",
+        "website": "www.johnsmith.com"
+    },
+    {
+        "id": 4,
+        "name": "Jane Smith",
+        "username": "jane_smith",
+        "email": "pooja@gmail.com",
+        "phone": "1234567890",
+        "website": "www.janesmith.com"
+    }
+]
